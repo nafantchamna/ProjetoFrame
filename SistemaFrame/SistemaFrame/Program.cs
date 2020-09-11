@@ -14,6 +14,11 @@ namespace SistemaFrame
             using (var context = new ClienteContext())
             {
                 var quantidade_Clientes = context.Clientes.Count();
+                context.Clientes.Add(new Cliente() { Nome = "Fatinha", Telefone = "11987949330" });
+
+                context.Clientes.Add(new Cliente() { Nome = "Fatinha", Telefone = "11987949330", CPF = "23660629820" });
+                context.Produtos.Add(new Produto() { Nome = "Computador Dell", Descricao = "Compuatdor marca Dell 8th" });
+                context.SaveChanges();
             }
         }
     }

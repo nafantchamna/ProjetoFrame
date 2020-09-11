@@ -10,3 +10,8 @@ C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.csproj.CoreCom
 C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.csproj.CopyComplete
 C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.exe
 C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.pdb
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.Migrations.InitialCreate.resources
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.csproj.GenerateResource.cache
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.Migrations.clienteCPF.resources
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.Migrations.Produto.resources
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.Migrations.Produto1.resources
