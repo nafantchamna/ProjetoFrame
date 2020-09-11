@@ -1,0 +1,12 @@
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\bin\Debug\SistemaFrame.exe.config
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\bin\Debug\SistemaFrame.exe
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\bin\Debug\SistemaFrame.pdb
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\bin\Debug\EntityFramework.dll
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\bin\Debug\EntityFramework.xml
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.csprojAssemblyReference.cache
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.csproj.CoreCompileInputs.cache
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.csproj.CopyComplete
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.exe
+C:\Projeto_Frame\SistemaFrame\SistemaFrame\obj\Debug\SistemaFrame.pdb
