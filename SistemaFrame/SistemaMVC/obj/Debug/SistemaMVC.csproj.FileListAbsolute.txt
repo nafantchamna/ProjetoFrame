@@ -1,0 +1,2 @@
+C:\Projeto_Frame\SistemaFrame\SistemaMVC\obj\Debug\SistemaMVC.csprojAssemblyReference.cache
+C:\Projeto_Frame\SistemaFrame\SistemaMVC\obj\Debug\SistemaMVC.csproj.CoreCompileInputs.cache
